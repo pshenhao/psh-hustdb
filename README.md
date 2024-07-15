@@ -22,7 +22,7 @@ Kindly let us know if we have missed any great papers. Thank you!
 Table of Contents
 =================
 
-* [0. Survey and Tutorial (0)](#0-Survey-and-Tutorial)
+* [0. Survey and Tutorial (0)](#0-survey-and-tutorial)
 * [1. Database Configuration]()
 * [2. Query Optimization]()
 * [3. Workload Scheduling (0)]()
@@ -39,13 +39,20 @@ Table of Contents
 
 ## 0. Survey and Tutorial
 
-### Survey
-
-**Database meets deep learning: Challenges and opportunities.** ![](https://img.shields.io/badge/-ai4db-Informational)
-
-*Wei Wang, Meihui Zhang, Gang Chen, et al.  SIGMOD Record, 2016.* [[paper](https://doi.org/10.1145/3003665.3003669)]
+### 0.1 Survey
 
 
-</hr>
+- **Database meets deep learning: Challenges and opportunities.** (*SIGMOD Record, 2016.* [[paper](https://doi.org/10.1145/3003665.3003669)]) ![](https://img.shields.io/badge/-ai4db-Informational)
+
+
+
+
+### 0.2 Tutorial
+
+- **From auto-tuning one size fits all to self-designed and learned data-intensive systems.** (*SIGMOD, 2019.*  [[paper](https://doi.org/10.1145/3299869.3314034)]) ![](https://img.shields.io/badge/-ai4db-Informational)
+
+
+
+</br>
 
 

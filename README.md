@@ -1,12 +1,3 @@
-
-###### @Author    : pshenhao
-###### @Version   : v0.0.1
-###### @Time      : 2024/07/15
-###### @Contact   : pshenhao@qq.com
-###### @Detail    : 生而无畏
-
-=================
-
 ## Researches and Practices in Databases
 
 <p align="center">
@@ -46,3 +37,10 @@ Table of Contents
 *Wei Wang, Meihui Zhang, Gang Chen, et al.  SIGMOD Record, 2016.* [[paper](https://doi.org/10.1145/3003665.3003669)]
 
 
+=================
+
+###### @Author    : pshenhao
+###### @Version   : v0.0.1
+###### @Time      : 2024/07/15
+###### @Contact   : pshenhao@qq.com
+###### @Detail    : 生而无畏

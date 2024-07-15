@@ -7,11 +7,8 @@
 ----
 </br>
 
-## Researches and Practices in Databases
+## Researches and Practices in Databases  </hr> 【English | <a href="">中文</a>】
 
-<p align="center">
-    【English | <a href="">中文</a>】
-</p>
 
 
 Continuously update the *database works* based on our past tutorials.
@@ -22,7 +19,7 @@ Kindly let us know if we have missed any great papers. Thank you!
 Table of Contents
 =================
 
-* [0. Survey and Tutorial (0)](#0-survey-and-tutorial)
+* [0. Survey and Tutorial (0)](#0-survey-and-tutorial)  [<a href="./data/0-survey_and _tutorial.docx">reading</a>]
 * [1. Database Configuration]()
 * [2. Query Optimization]()
 * [3. Workload Scheduling (0)]()

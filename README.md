@@ -19,7 +19,7 @@ Kindly let us know if we have missed any great papers. Thank you!
 Table of Contents
 =================
 
-* [0. Survey and Tutorial (0)](#0-survey-and-tutorial)  [<a href="./data/0-survey_and_tutorial.docx">reading</a>]
+* [0. Survey and Tutorial (0)](#0-survey-and-tutorial)  [<a href="./reading/0-survey_and_tutorial.docx">reading</a>]
 * [1. Database Configuration]()
 * [2. Query Optimization]()
 * [3. Workload Scheduling (0)]()

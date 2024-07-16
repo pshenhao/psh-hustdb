@@ -10,10 +10,8 @@
 ## Researches and Practices in Databases  </hr> 【English | <a href="">中文</a>】
 
 
+paper reading in database.
 
-Continuously update the *database works* based on our past tutorials.
-
-Kindly let us know if we have missed any great papers. Thank you!
 
 
 Table of Contents

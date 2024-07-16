@@ -20,13 +20,13 @@ Table of Contents
 =================
 
 * [0. Survey and Tutorial (2)](#0-survey-and-tutorial)  [<a href="./reading/0-survey_and_tutorial.docx">reading</a>]
-* [1. Database Configuration]()
-* [2. Query Optimization]()
+* [1. Database Configuration (0)]()
+* [2. Query Optimization (0)]()
 * [3. Workload Scheduling (0)]()
-* [4. Database Design]()
+* [4. Database Design (0)]()
 * [5. Database Monitoring (0)]()
-* [6. Database Diagnosis]()
-* [7. General Techniques]()
+* [6. Database Diagnosis (0)]()
+* [7. General Techniques (0)]()
 * [8. Database Frameworks (0)]()
 * [9. Demonstrations (0)]()
 * [S1. LLM x DB (0)]()

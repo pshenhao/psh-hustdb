@@ -18,18 +18,8 @@ Table of Contents
 =================
 
 * [0. Survey and Tutorial (2)](#0-survey-and-tutorial)  [<a href="./reading/0-survey_and_tutorial.docx">reading</a>]
-* [1. Database Configuration (0)]()
-* [2. Query Optimization (0)]()
-* [3. Workload Scheduling (0)]()
-* [4. Database Design (0)]()
-* [5. Database Monitoring (0)]()
-* [6. Database Diagnosis (0)]()
-* [7. General Techniques (0)]()
-* [8. Database Frameworks (0)]()
-* [9. Demonstrations (0)]()
-* [S1. LLM x DB (0)]()
-* [S2. AI Resources (0)]()
-* [S3. Data And SQLs (0)]()
+* [1. Multimodal databases (1)]()
+
 
 
 ## 0. Survey and Tutorial
@@ -37,16 +27,21 @@ Table of Contents
 ### 0.1 Survey
 
 
-- **Database meets deep learning: Challenges and opportunities.** (*SIGMOD Record, 2016.* [[paper](https://doi.org/10.1145/3003665.3003669)]) ![](https://img.shields.io/badge/-ai4db-Informational)
+- **Database meets deep learning: Challenges and opportunities** (*SIGMOD Record, 2016.* [[paper](https://doi.org/10.1145/3003665.3003669)]) ![](https://img.shields.io/badge/-ai4db-Informational)
 
 
 
 
 ### 0.2 Tutorial
 
-- **From auto-tuning one size fits all to self-designed and learned data-intensive systems.** (*SIGMOD, 2019.*  [[paper](https://doi.org/10.1145/3299869.3314034)]) ![](https://img.shields.io/badge/-ai4db-Informational)
+- **From auto-tuning one size fits all to self-designed and learned data-intensive systems** (*SIGMOD, 2019.*  [[paper](https://doi.org/10.1145/3299869.3314034)]) ![](https://img.shields.io/badge/-ai4db-Informational)
 
 
+## 1. Multimodal databases
+
+### 1.1 Design && Innovation
+
+- **Multimodal Neural Databases** (*SIGIR, 2023.* [[paper](https://dl.acm.org/doi/10.1145/3539618.3591930)] [[code](https://github.com/GiovanniTRA/MultimodalNeuralDatabases)]) ![](https://img.shields.io/badge/-MultiDB-Informational)
 
 
 </br>
